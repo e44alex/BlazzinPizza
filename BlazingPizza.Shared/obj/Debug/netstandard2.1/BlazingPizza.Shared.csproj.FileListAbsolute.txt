@@ -1,0 +1,12 @@
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.deps.json
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.dll
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.pdb
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csprojAssemblyReference.cache
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfoInputs.cache
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfo.cs
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CopyComplete
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.dll
+D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.pdb
