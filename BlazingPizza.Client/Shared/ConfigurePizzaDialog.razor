@@ -1,4 +1,4 @@
-﻿@inject HttpClient HttpClient
+﻿@inject HttpClient  HttpClient
 
 <div class="dialog-container">
     <div class="dialog">
@@ -95,7 +95,7 @@
     {
         if (Pizza.Toppings.Find(pt => pt.Topping == topping) == null)
         {
-            Pizza.Toppings.Add(new PizzaTopping() { Topping = topping});
+            Pizza.Toppings.Add(new PizzaTopping() { Topping = topping });
         }
     }
 

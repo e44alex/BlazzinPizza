@@ -3,37 +3,40 @@
 @using System.Threading
 @implements IDisposable
 
-@inject HttpClient HttpClient
+@inject OrdersClient  HttpClient
 
-    <div class="main">
-        @if (invalidOrder)
-        {
-            <h2>Nope</h2>
-            <p>Sorry, this order could not be loaded.</p>
-        }
-        else if (orderWithStatus == null)
-        {
-            <text>Loading...</text>
-        }
-        else
-        {
-            <div class="track-order">
-                <div class="track-order-title">
-                    <h2>
-                        Order placed @orderWithStatus.Order.CreatedTime.ToLongDateString()
-                    </h2>
-                    <p class="ml-auto mb-0">
-                        Status: <strong>@orderWithStatus.StatusText</strong>
-                    </p>
+<div class="main">
+    @if (invalidOrder)
+    {
+        <h2>Nope</h2>
+        <p>Sorry, this order could not be loaded.</p>
+    }
+    else if (orderWithStatus == null)
+    {
+        <text>Loading...</text>
+    }
+    else
+    {
+        <div class="track-order">
+            <div class="track-order-title">
+                <h2>
+                    Order placed @orderWithStatus.Order.CreatedTime.ToLongDateString()
+                </h2>
+                <p class="ml-auto mb-0">
+                    Status: <strong>@orderWithStatus.StatusText</strong>
+                </p>
+            </div>
+            <div class="track-order-body">
+                <div class="track-order-details">
+                    <OrderRewiew Order="@orderWithStatus.Order" />
                 </div>
-                <div class="track-order-body">
-                    <div class="track-order-details">
-                        <OrderRewiew Order="@orderWithStatus.Order"/>
-                    </div>
+                <div class="track-order-map">
+                    <Map Zoom="13" Markers="orderWithStatus.MapMarkers" />
                 </div>
             </div>
-        }
-    </div>
+        </div>
+    }
+</div>
 
 @code {
     [Parameter]
@@ -52,30 +55,26 @@
 
     private async void PoolForUpdates()
     {
+        invalidOrder = false;
         poolingCancellationToken = new CancellationTokenSource();
-
         while (!poolingCancellationToken.IsCancellationRequested)
         {
             try
             {
-                invalidOrder = false;
-                orderWithStatus = await HttpClient.GetFromJsonAsync<OrderWithStatus>($"orders/{OrderId}");
+                orderWithStatus = await HttpClient.GetOrder(OrderId);
                 StateHasChanged();
-
-                if (orderWithStatus.IsDelivered)
-                {
-                    poolingCancellationToken.Cancel();
-                }
-                else
-                {
-                    await Task.Delay(4000);
-                }
+                await Task.Delay(4000);
             }
-            catch (Exception e)
+            catch (AccessTokenNotAvailableException ex)
+            {
+                poolingCancellationToken.Cancel();
+                ex.Redirect();
+            }
+            catch (Exception ex)
             {
                 invalidOrder = true;
                 poolingCancellationToken.Cancel();
-                Console.Error.WriteLine(e);
+                Console.Error.WriteLine(ex);
                 StateHasChanged();
             }
         }

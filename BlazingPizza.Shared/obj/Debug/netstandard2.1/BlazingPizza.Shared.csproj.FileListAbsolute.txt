@@ -10,3 +10,15 @@ D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPi
 D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CopyComplete
 D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.dll
 D:\Users\e44al\source\repos\blazor-workshop\save-points\00-get-started\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.pdb
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.deps.json
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.dll
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.pdb
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csprojAssemblyReference.cache
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfoInputs.cache
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfo.cs
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CopyComplete
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.dll
+D:\Source\Repos\BlazzinPizza\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.pdb

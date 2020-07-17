@@ -1,0 +1,47 @@
+﻿@page "/checkout"
+@inject OrderState OrderState
+@inject OrdersClient HttpClient
+@inject NavigationManager NavigationManager
+@attribute [Authorize]
+
+    <div class="main">
+        <EditForm Model="OrderState.Order.DeliveryAddress" OnValidSubmit="PlaceOrder">
+            <div class="checkout-cols">
+                <div class="checkout-order-details">
+                    <h4>Review order</h4>
+                    <OrderRewiew Order="OrderState.Order" />
+                </div>
+
+                <div class="checkout-delivery-address">
+                    <h4>Deliver to...</h4>
+                    <AddressEditor Address="OrderState.Order.DeliveryAddress" />
+                </div>
+            </div>
+
+            <button type="submit" class="checkout-button btn btn-warning" disabled="@isSubmitting">
+                Place order
+            </button>
+
+            <DataAnnotationsValidator />
+            
+        </EditForm>
+    </div>
+
+@code {
+    bool isSubmitting;
+
+    async Task PlaceOrder()
+    {
+        isSubmitting = true;
+        try
+        {
+            var newOrderId = await HttpClient.PlaceOrder(OrderState.Order);
+            OrderState.ResetOrder();
+            NavigationManager.NavigateTo($"myorders/{newOrderId}");
+        }
+        catch (AccessTokenNotAvailableException ex)
+        {
+            ex.Redirect();
+        }
+    }
+}

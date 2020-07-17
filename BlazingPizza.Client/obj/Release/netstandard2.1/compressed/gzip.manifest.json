@@ -1,0 +1,209 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\KR_9PhwNebgKBeFc53V6Fj5hm1FhuveiwGJmVwEnLSo=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazingPizza.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingPizza.Client.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\2aVm7dtXqsynllU6Ij2hR-w0S4A2WcI3utnW9MTf474=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazingPizza.ComponentsLibrary.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingPizza.ComponentsLibrary.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ZOr7rUH_wMymnHvFGez5Jk_sWjyDV8PS8TNWMqwHTWM=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazingPizza.Shared.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlazingPizza.Shared.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\DLC0pHTnaUgAXoqrh9HHQ8heoea2i1dMr-kU4c4YVLE=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Authorization.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authorization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ZOqxcdk_Hz9o0Q8KF01oG3L86cKIFImSi9iFv4boXAk=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Authorization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YRBrYjDFPtudWwvxy17N5Y_8JTQ4GIU9Ht5y8LbKX74=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\yBxQ7mfTtCk2mGQQ_V8xEtdNNILw8ZAmWrqLWKSKvAQ=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Forms.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\dgh2viKWNvNwVxUmD6-4L4iEHFZOSoQddR8YSlywKRo=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Y9YlCzE2p5uDm6dSI0rvAAp_gWx5q6_MdZNJG0vPo6s=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5qOJBnB7LAWijo18HBKDpZ2vK5fP_oeQnbtMboXhuDk=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\aNAcSvtRrX_TsW-d9qPhqek04C_BnaZUJVkyteu41T4=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Metadata.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Metadata.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\2gkhHvwG4vqGPTiQcoXAP8KEIHXd-Azys3zVxAk8Z58=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\9WMJKMoT7OqMk8KJxhFKnnbBc_mJzgY_srMHyCW6SS0=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\MOh57Jc1TdH2RFL27aQCSadDbm2M2GxD0Wsa3DKHfOs=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\iSU6csfgCY9wdMPqySnRF0TAk0tMBRQNTo0q841ar38=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5WUnvhN6lQrmop4wP386OO3x-NpRVN3-I6fk0vQme9M=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Ze7bg2hT9p6XojsU1wGx0tNDARqrFjx-GheyMWIV3Mo=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Http.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\y-0Jr5nl7xI0sslgsSHvO3lF6UAdD83KWUE7DrBOSMg=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\rCpxQhRmXJv59DHduG6AGarkCJaKThJZb-TEK-4JQAg=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ijoNvz76KtINPlLiIplH6adUcfwR9S6iTqA8Gqn7550=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\1Mj6OBvUcuA2au_3TVa4ErTlS8klgyRjC7BNoqd_hG4=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8-219DaOnmsX3e4=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\zV-OfJNfNsG404X30Pwkdymdh1KmZpTVEmG-JNFVc-k=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\yKQY_YaP33WQKyG1wX4qEClQW5WqEL5oa6p8fdJlRfM=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Mono.Security.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Mono.Security.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\BfaZrWrYjbam1qwafu-2CF8zegc3CyucD21za-II-p8=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\n3EdkA0xj9-hMV8SIio9LjlFm3Yzzi-_LQ8riL2TTS0=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.ComponentModel.DataAnnotations.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Mopi39eFWwdgwyIYCBIfH9C51pK6edfUiBzURZsUF2k=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\q0Lok9BajTY_05IKj7OCjTNOBb3S0PSjuvxuk2WsthI=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CkTVXouJG8jLgeJII1Ctn_vakrLL452R5KpxKqyQ-9c=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\QK2Q98bVAF3s-KlNFYLonOvjoxr9CPdSkJMxvHzZGVY=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Ht9jnheCwjenLVghr5J3TiTwQVj1lnLwBLRRxXMPiKs=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CcyX2qtlczkCdC9NFqx1Bh56ou-CV23ggDbIqcEgIWo=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\byCcKce2SAJXXHKg3-UJ5MMOVPRc7-UimMkOkTll3Kk=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Xtl-pT4uN4v-B8FEp3Wv9nYcEf-Hw0SRSm6yIdQMZhA=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\HIByuuogXhN7zlhH2-qLmCSLKPjbFT6TwMuDO-H1bn8=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.1\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Dt6HakobTgdKj5aPUDS5sMRkAtd1Ygkl68m3QogW9kU=.hash",
+      "Source": "D:\\Source\\Repos\\BlazzinPizza\\BlazingPizza.Client\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
+    }
+  ]
+}
